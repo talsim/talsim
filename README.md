@@ -1,6 +1,6 @@
 ## Hi there! I'm Tal 👋 
 
-I’m a passionate **Security Researcher** and a **software developer** with a focus on vulnerability research and CTFs. 
+I’m a passionate **Security Researcher** and a **Software Engineer** with a focus on vulnerability research and CTFs. 
 
 🎯 **What I Do:**
 - 🔒 Security research & vulnerability discovery
